@@ -6,7 +6,8 @@
 ---
 
 ## **Assignment 2 — Welcome User**
-<img width="419" height="837" alt="image" src="https://github.com/user-attachments/assets/3a278b35-fb71-44f0-8bcd-2cde179e4541" />
+<img width="419" height="837" alt="image" src="https://github.com/user-attachments/assets/9694fbd5-860b-4b41-bbff-5cb6541c4b3e" />
+
 
 ---
 
